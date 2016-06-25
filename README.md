@@ -1,5 +1,7 @@
 ## Trabalho de Estrutura de Dados I: 9.9/10.0
 
+#### Compactador/Descompactador de arquivos em C 1.0
+
 ### git via terminal
  
 > sudo apt-get install git
