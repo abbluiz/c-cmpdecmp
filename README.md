@@ -6,27 +6,27 @@
  
 > sudo apt-get install git
 
-> git clone https://github.com/<user>/<repositorio>
+> git clone https://github.com/usuario/repositorio
 
-> git add <caminhodoarquivo>
+> git add caminhodoarquivo
 
 > git add *
 
-> git rm <caminhodoarquivo>
+> git rm caminhodoarquivo
 
-> git commit -m "<mensagem>"
+> git commit -m "mensagem"
 
-> git push origin <nome-da-branch>
+> git push origin nome-da-branch
 
-> git branch <nome-da-branch-nova>
+> git branch nome-da-branch-nova
 
-> git checkout <nome-da-branch>
+> git checkout nome-da-branch
 
 > git branch
 
-> git branch -d <nome-da-branch>
+> git branch -d nome-da-branch-deletar-localmente
 
-> git push origin :<nome-da-branch>
+> git push origin :nome-da-branch-deletar
 
 > git log
 
